@@ -1,7 +1,7 @@
 # Presentación sobre Cooperativismo de Trabajo
-## Master de acción solidaria internacional y de inclusión social
+## Jornada sobre emprendimiento en Valleinnova, BOCEMA - 22 de junio de 2018
 
 La presentación se puede ver en:
-https://damateos.github.io/presentacion-cooperativas-master-uc3/cooperativas.html
+https://damateos.github.io/jornada-emprendimiento-cerceda-2018/cooperativas.html
 
 Presentación realizada con [Reveal.js](http://lab.hakim.se/reveal-js/)
